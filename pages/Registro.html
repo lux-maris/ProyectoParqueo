@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="/style.css" />
+    <title>ULACIT - Registro</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="login-form">
+
+        <!-- from -->
+        <form class="form-content">
+          <div class="form-heading">
+            <img src="/public/logo.png" alt="ULACIT Logo" />
+            <h1>Regístrate</h1><br>
+            <p>Ingresa tu información para registrar tu cuenta!</p>
+          </div>
+
+          <!-- inputs -->
+          <div class="input-wrap">
+            <div class="input">
+              <input type="text" id="name" placeholder=" " required/>
+              <div class="label">
+                <label for="name">Nombre Completo</label>
+              </div>
+            </div>
+
+            <div class="input">
+              <input type="text" id="id" placeholder=" " required/>
+              <div class="label">
+                <label for="id">Número de Cédula</label>
+              </div>
+            </div>
+
+            <div class="input">
+              <input type="email" id="email" placeholder=" " required/>
+              <div class="label">
+                <label for="email">Correo Electrónico</label>
+              </div>
+            </div>
+
+            <div class="input">
+              <input type="password" id="password" placeholder=" " required/>
+              <div class="label">
+                <label for="password">Contraseña</label>
+              </div>
+            </div>
+
+            <div class="input">
+              <input type="text" id="car" placeholder=" " required/>
+              <div class="label">
+                <label for="car">Modelo de tu Vehículo</label>
+              </div>
+            </div>
+
+            <div class="input">
+              <input type="text" id="car-id" placeholder=" " required/>
+              <div class="label">
+                <label for="car-id">Número de Placa de tu Vehículo</label>
+              </div>
+            </div>
+
+            <div class="password">
+                <a href="../index.html">Iniciar Sesión</a>
+            </div>
+
+            <button type="submit">Crear Cuenta</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

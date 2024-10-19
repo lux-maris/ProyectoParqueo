@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>ULACIT - Iniciar Sesión</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="login-form">
+
+        <!-- right -->
+        <form class="form-content">
+          <div class="form-heading">
+            <img src="./public/logo.png" alt="ULACIT Logo" />
+            <h1>Inicia Sesión</h1><br>
+            <p>Ingresa tu correo y contraseña para iniciar sesión!</p>
+          </div>
+
+          <!-- inputs -->
+          <div class="input-wrap">
+            <div class="input">
+              <input type="email" id="email" placeholder=" " required/>
+              <div class="label">
+                <label for="email">Correo Electrónico</label>
+              </div>
+            </div>
+
+            <div class="input">
+              <input type="password" id="password" placeholder=" " required/>
+              <div class="label">
+                <label for="password">Contraseña</label>
+              </div>
+            </div>
+
+            <div class="password">
+                <a href="./pages/Password.html">Olvidaste tu Contraseña?</a>
+                <span> | </span>
+                <a href="./pages/Registro.html">Registrarse</a>
+            </div>
+              
+        
+            <button type="submit">Iniciar Sesión</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
