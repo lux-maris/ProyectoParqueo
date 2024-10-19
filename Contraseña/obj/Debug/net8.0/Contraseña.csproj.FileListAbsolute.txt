@@ -1,0 +1,14 @@
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.exe
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.deps.json
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.runtimeconfig.json
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.dll
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\bin\Debug\net8.0\Contraseña.pdb
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.AssemblyInfoInputs.cache
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.AssemblyInfo.cs
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.csproj.CoreCompileInputs.cache
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.dll
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\refint\Contraseña.dll
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.pdb
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\Contraseña.genruntimeconfig.cache
+C:\Users\Amado Gonzalez\Documents\Analisis\Contraseña\Contraseña\obj\Debug\net8.0\ref\Contraseña.dll
