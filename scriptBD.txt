@@ -1,0 +1,61 @@
+-- Creación de la base de datos
+CREATE DATABASE IF NOT EXISTS sistema_parqueo;
+USE sistema_parqueo;
+
+-- Tabla Usuario
+CREATE TABLE Usuario (
+    cedula VARCHAR(10) PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    telefono VARCHAR(15),
+    fechaNacimiento DATE,
+    rol ENUM('Administrador', 'OficialSeguridad', 'PersonalAdministrativo', 'Estudiante') NOT NULL,
+    carnet VARCHAR(50) UNIQUE NOT NULL,
+    cambioClaveObligatorio BOOLEAN DEFAULT TRUE
+);
+
+-- Tabla Vehiculo
+CREATE TABLE Vehiculo (
+    numeroPlaca VARCHAR(6) PRIMARY KEY,
+    marca VARCHAR(50) NOT NULL,
+    color VARCHAR(30),
+    tipo ENUM('Vehiculo', 'Moto') NOT NULL,
+    cedulaDueño VARCHAR(10),
+    espacioLey7600 BOOLEAN DEFAULT FALSE,
+    estado ENUM('Activo', 'Inactivo') DEFAULT 'Activo',
+    FOREIGN KEY (cedulaDueño) REFERENCES Usuario(cedula)
+);
+
+-- Tabla Parqueo
+CREATE TABLE Parqueo (
+    idParqueo INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    capacidadRegular INT NOT NULL,
+    capacidadMoto INT NOT NULL,
+    capacidadLey7600 INT NOT NULL,
+    ocupacionActualRegular INT DEFAULT 0,
+    ocupacionActualMoto INT DEFAULT 0,
+    ocupacionActualLey7600 INT DEFAULT 0
+);
+
+-- Tabla IngresoEgreso
+CREATE TABLE IngresoEgreso (
+    idRegistro INT AUTO_INCREMENT PRIMARY KEY,
+    numeroPlaca VARCHAR(6),
+    idParqueo INT,
+    tipoRegistro ENUM('Ingreso', 'Egreso') NOT NULL,
+    fechaHora DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (numeroPlaca) REFERENCES Vehiculo(numeroPlaca),
+    FOREIGN KEY (idParqueo) REFERENCES Parqueo(idParqueo)
+);
+
+-- Tabla Bitacora
+CREATE TABLE Bitacora (
+    idBitacora INT AUTO_INCREMENT PRIMARY KEY,
+    numeroPlaca VARCHAR(6),
+    fechaHora DATETIME DEFAULT CURRENT_TIMESTAMP,
+    accion ENUM('Ingreso fallido', 'Ingreso exitoso', 'Egreso') NOT NULL,
+    motivoFallido VARCHAR(255),
+    FOREIGN KEY (numeroPlaca) REFERENCES Vehiculo(numeroPlaca)
+);
