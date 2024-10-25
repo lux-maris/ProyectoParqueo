@@ -1,0 +1,15 @@
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\bin\Debug\registro de usuarios.exe.config
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\bin\Debug\registro de usuarios.exe
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\bin\Debug\registro de usuarios.pdb
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios.csproj.AssemblyReference.cache
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\MainWindow.g.cs
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\App.g.cs
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios_MarkupCompile.cache
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios_MarkupCompile.lref
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\MainWindow.baml
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios.g.resources
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro_de_usuarios.Properties.Resources.resources
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios.csproj.GenerateResource.cache
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios.exe
+C:\Users\Fabian Jimenez\source\repos\registro de usuarios\registro de usuarios\obj\Debug\registro de usuarios.pdb

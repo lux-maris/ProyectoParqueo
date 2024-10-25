@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|c:\\users\\fabian jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\modelo\\usuario_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|solutionrelative:registro de usuarios\\modelo\\usuario_crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|c:\\users\\fabian jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|solutionrelative:registro de usuarios\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|c:\\users\\fabian jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\modelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|solutionrelative:registro de usuarios\\modelo\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|c:\\users\\fabian jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|solutionrelative:registro de usuarios\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|c:\\users\\fabian jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\bd\\class_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA9DFD5-2A79-4582-A220-F502ABC79A35}|registro de usuarios\\registro de usuarios.csproj|solutionrelative:registro de usuarios\\bd\\class_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario_CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\modelo\\Usuario_CRUD.cs",
+              "RelativeDocumentMoniker": "registro de usuarios\\modelo\\Usuario_CRUD.cs",
+              "ToolTip": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\modelo\\Usuario_CRUD.cs",
+              "RelativeToolTip": "registro de usuarios\\modelo\\Usuario_CRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:00:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\modelo\\Usuarios.cs",
+              "RelativeDocumentMoniker": "registro de usuarios\\modelo\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\modelo\\Usuarios.cs",
+              "RelativeToolTip": "registro de usuarios\\modelo\\Usuarios.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:58:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "class_conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\bd\\class_conexion.cs",
+              "RelativeDocumentMoniker": "registro de usuarios\\bd\\class_conexion.cs",
+              "ToolTip": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\bd\\class_conexion.cs",
+              "RelativeToolTip": "registro de usuarios\\bd\\class_conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:53:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "registro de usuarios\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\MainWindow.xaml",
+              "RelativeToolTip": "registro de usuarios\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T01:48:17.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "registro de usuarios\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Fabian Jimenez\\source\\repos\\registro de usuarios\\registro de usuarios\\MainWindow.xaml.cs",
+              "RelativeToolTip": "registro de usuarios\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wDcAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:48:16.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
